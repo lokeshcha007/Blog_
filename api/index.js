@@ -10,7 +10,6 @@ mongoose.connect(process.env.MONGO_DB).then((msg)=>{
 
 const app = express()
 
-console.log("kel")
 app.listen(3000,()=>{
     console.log('app is listening at 3000!')
 })
