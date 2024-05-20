@@ -15,7 +15,7 @@ export default function SignUp() {
         </Link>
        
         <p className="text-sm mt-5"  >
-          This is a blog project..You can cign up with your email and password or with google
+          This is a blog project...You can sign up with your email and password or with google
         </p>
         </div>
          {/* {right side} */}
