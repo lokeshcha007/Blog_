@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import {Button, Navbar, TextInput} from "flowbite-react"
 import { Link,useLocation } from "react-router-dom"
 import {AiOutlineSearch} from "react-icons/ai"
